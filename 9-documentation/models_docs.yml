@@ -1,0 +1,18 @@
+ version: 2
+
+models:
+  - name: items
+    description: '{{ doc("items") }}'
+    columns:
+      - name: status
+        tests:
+          - accepted_values:
+              values: ['Shipped', 'Cancelled']
+              
+  - name: invoices
+    columns:
+      - name: INVOICENO
+        tests:
+          # - unique
+          - not_null
+	  - base_invoice_match

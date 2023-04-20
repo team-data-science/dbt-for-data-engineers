@@ -1,0 +1,194 @@
+id,alpha2,en
+4,af,Afghanistan
+8,al,Albania
+12,dz,Algeria
+20,ad,Andorra
+24,ao,Angola
+28,ag,Antigua and Barbuda
+32,ar,Argentina
+51,am,Armenia
+36,au,Australia
+40,at,Austria
+31,az,Azerbaijan
+44,bs,Bahamas
+48,bh,Bahrain
+50,bd,Bangladesh
+52,bb,Barbados
+112,by,Belarus
+56,be,Belgium
+84,bz,Belize
+204,bj,Benin
+64,bt,Bhutan
+68,bo,Bolivia (Plurinational State of)
+70,ba,Bosnia and Herzegovina
+72,bw,Botswana
+76,br,Brazil
+96,bn,Brunei Darussalam
+100,bg,Bulgaria
+854,bf,Burkina Faso
+108,bi,Burundi
+116,kh,Cambodia
+120,cm,Cameroon
+124,ca,Canada
+132,cv,Cabo Verde
+140,cf,Central African Republic
+148,td,Chad
+152,cl,Chile
+156,cn,China
+170,co,Colombia
+174,km,Comoros
+178,cg,Congo
+180,cd,"Congo, Democratic Republic of the"
+188,cr,Costa Rica
+384,ci,Côte d'Ivoire
+191,hr,Croatia
+192,cu,Cuba
+196,cy,Cyprus
+203,cz,Czechia
+208,dk,Denmark
+262,dj,Djibouti
+212,dm,Dominica
+214,do,Dominican Republic
+218,ec,Ecuador
+818,eg,Egypt
+222,sv,El Salvador
+226,gq,Equatorial Guinea
+232,er,Eritrea
+233,ee,Estonia
+231,et,Ethiopia
+242,fj,Fiji
+246,fi,Finland
+250,fr,France
+266,ga,Gabon
+270,gm,Gambia
+268,ge,Georgia
+276,de,Germany
+288,gh,Ghana
+300,gr,Greece
+308,gd,Grenada
+320,gt,Guatemala
+324,gn,Guinea
+624,gw,Guinea-Bissau
+328,gy,Guyana
+332,ht,Haiti
+340,hn,Honduras
+348,hu,Hungary
+352,is,Iceland
+356,in,India
+360,id,Indonesia
+364,ir,Iran (Islamic Republic of)
+368,iq,Iraq
+372,ie,Ireland
+376,il,Israel
+380,it,Italy
+388,jm,Jamaica
+392,jp,Japan
+400,jo,Jordan
+398,kz,Kazakhstan
+404,ke,Kenya
+296,ki,Kiribati
+408,kp,Korea (Democratic People's Republic of)
+410,kr,"Korea, Republic of"
+414,kw,Kuwait
+417,kg,Kyrgyzstan
+418,la,Lao People's Democratic Republic
+428,lv,Latvia
+422,lb,Lebanon
+426,ls,Lesotho
+430,lr,Liberia
+434,ly,Libya
+438,li,Liechtenstein
+440,lt,Lithuania
+442,lu,Luxembourg
+807,mk,North Macedonia
+450,mg,Madagascar
+454,mw,Malawi
+458,my,Malaysia
+462,mv,Maldives
+466,ml,Mali
+470,mt,Malta
+584,mh,Marshall Islands
+478,mr,Mauritania
+480,mu,Mauritius
+484,mx,Mexico
+583,fm,Micronesia (Federated States of)
+504,ma,Morocco
+498,md,"Moldova, Republic of"
+492,mc,Monaco
+496,mn,Mongolia
+499,me,Montenegro
+508,mz,Mozambique
+104,mm,Myanmar
+516,na,Namibia
+520,nr,Nauru
+524,np,Nepal
+528,nl,Netherlands
+554,nz,New Zealand
+558,ni,Nicaragua
+562,ne,Niger
+566,ng,Nigeria
+578,no,Norway
+512,om,Oman
+586,pk,Pakistan
+585,pw,Palau
+591,pa,Panama
+598,pg,Papua New Guinea
+600,py,Paraguay
+604,pe,Peru
+608,ph,Philippines
+616,pl,Poland
+620,pt,Portugal
+634,qa,Qatar
+642,ro,Romania
+643,ru,Russian Federation
+646,rw,Rwanda
+659,kn,Saint Kitts and Nevis
+662,lc,Saint Lucia
+670,vc,Saint Vincent and the Grenadines
+882,ws,Samoa
+674,sm,San Marino
+678,st,Sao Tome and Principe
+682,sa,Saudi Arabia
+686,sn,Senegal
+688,rs,Serbia
+690,sc,Seychelles
+694,sl,Sierra Leone
+702,sg,Singapore
+703,sk,Slovakia
+705,si,Slovenia
+90,sb,Solomon Islands
+706,so,Somalia
+710,za,South Africa
+728,ss,South Sudan
+724,es,Spain
+144,lk,Sri Lanka
+729,sd,Sudan
+740,sr,Suriname
+748,sz,Eswatini
+752,se,Sweden
+756,ch,Switzerland
+760,sy,Syrian Arab Republic
+762,tj,Tajikistan
+834,tz,"Tanzania, United Republic of"
+764,th,Thailand
+626,tl,Timor-Leste
+768,tg,Togo
+776,to,Tonga
+780,tt,Trinidad and Tobago
+788,tn,Tunisia
+792,tr,Türkiye
+795,tm,Turkmenistan
+798,tv,Tuvalu
+800,ug,Uganda
+804,ua,Ukraine
+784,ae,United Arab Emirates
+826,gb,United Kingdom of Great Britain and Northern Ireland
+840,us,United States of America
+858,uy,Uruguay
+860,uz,Uzbekistan
+548,vu,Vanuatu
+862,ve,Venezuela (Bolivarian Republic of)
+704,vn,Viet Nam
+887,ye,Yemen
+894,zm,Zambia
+716,zw,Zimbabwe

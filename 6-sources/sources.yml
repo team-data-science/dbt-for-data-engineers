@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: ecommerceraw #name we would use to refer to this source
+    schema: ECOMMERCE #Snowflake schema name where raw ECOMMERCE data is stored
+    description: Raw Ecommerce data #data source desc. To be used in dbt documentation
+    tables:
+      - name: DATA #Snowflake table name where raw ECOMMERCE data is stored
+        description: Merged invoice and invoice items data #table desc. To be used in dbt documentation
+        columns:
+          - name: CUSTOMERID
+            tests:
+              - dbt_expectations.expect_column_to_exist
+        freshness: # default freshness
+          warn_after: {count: 10, period: day}
+          error_after: {count: 500, period: day}
+        loaded_at_field: report_timestamp

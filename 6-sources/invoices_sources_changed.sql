@@ -1,0 +1,4 @@
+
+with cte as
+(SELECT DISTINCT CUSTOMERID, COUNTRY, INVOICEDATE, INVOICENO   FROM {{source('ecommerceraw', 'DATA')}})
+SELECT * FROM cte
