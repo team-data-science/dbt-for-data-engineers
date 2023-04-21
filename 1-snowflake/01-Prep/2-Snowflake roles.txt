@@ -1,0 +1,28 @@
+CREATE OR REPLACE ROLE dbt3;
+CREATE OR REPLACE USER dbt_user3 PASSWORD = "YourPassword";
+GRANT ROLE dbt3 TO USER dbt_user3;
+GRANT ROLE dbt3 TO ROLE accountadmin;
+
+GRANT usage ON WAREHOUSE SMALLWAREHOUSE  TO ROLE dbt3;
+
+-- database level
+GRANT ALL ON DATABASE TESTDB TO ROLE dbt3;
+SHOW GRANTS on database testdb;
+
+-- schema level
+GRANT ALL ON ALL SCHEMAS IN DATABASE TESTDB TO ROLE dbt3;
+SHOW GRANTS on schema ecommerce;
+
+-- tables and views
+SHOW GRANTS on table data;
+GRANT ALL ON ALL TABLES IN SCHEMA ECOMMERCE TO ROLE dbt3;
+SHOW GRANTS on table data;
+
+SHOW GRANTS on view items;
+GRANT ALL ON ALL VIEWS IN SCHEMA ECOMMERCE TO ROLE dbt3;
+
+-- grant usage on database TESTDB to role dbt3;
+grant usage on future schemas in database TESTDB to role dbt3;
+grant all on future tables in database TESTDB to role dbt3;
+grant all on future views in database TESTDB to role dbt3;
+SHOW future GRANTS in database testdb;
